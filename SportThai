@@ -1,0 +1,1026 @@
+{         
+"name":"Sport Thai",
+"image":"https://img.freepik.com/free-vector/sport-equipment-concept_1284-13034.jpg", 
+"author":"เด็กปากพนังน่ะครับ",	  
+"stations": 
+[
+
+
+{
+"name":"MONOMAX1",
+"image":"https://www.img08.xyz/assets/img/ch_logo/Monomax_Sport01.png", 
+"url":"https://168dooball.net/live-stream/?mode=ball&ch=monomax1", 
+"referer":"https://168dooball.net/",
+"info":"Server 168dooball",
+"playInNatPlayer": "true"},
+                                 
+{
+"name":"MONOMAX1สำรอง1",
+"image":"https://www.img08.xyz/assets/img/ch_logo/Monomax_Sport01.png", 
+"url":"https://goal-th.com/ช่องรายการทีวี/?id=606&tv=Monomax1",
+"referer":"https://goal-th.com/",
+"info":"Server goal-th",
+"playInNatPlayer":"true"},
+
+{
+"name":"MONOMAX1สำรอง2",
+"image":"https://www.img08.xyz/assets/img/ch_logo/Monomax_Sport01.png", 
+"url":"https://dookeela.live/live-tv/monomax1",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"},
+
+{
+"name":"MONOMAX1สำรอง3",
+"image":"https://www.img08.xyz/assets/img/ch_logo/Monomax_Sport01.png",
+"url":"https://cdn1.googlecdnforstreaming.live/live/monomax1/chunks.m3u8",
+"referer":"https://warpdooball.net/", 
+"info":"Server warpdooball.net",                              
+"playInNatPlayer":"true"},
+
+{
+"name":"MONOMAX1สำรอง4",
+"image":"https://www.img08.xyz/assets/img/ch_logo/Monomax_Sport01.png",
+"url":"https://cdn1.googlecdn.live/4k/monomax1/chunks.m3u8",
+"referer":"https://footballsod.live", 
+"info":"Server footballsod.live",                              
+"playInNatPlayer":"true"},
+
+{
+"name":"MONOMAX1สำรอง5",
+"image":"https://www.img08.xyz/assets/img/ch_logo/Monomax_Sport01.png",
+"url":"https://www.livedoomovies.com:4432/Monomax_Live_1HD/chunklist.m3u8",
+"referer":"https://doomovie-hd.pro",
+"info":"Server doomovie-hd",
+"playInNatPlayer":"true"},	
+
+{
+"name":"MONOMAX1สำรอง6",
+"image":"https://www.img08.xyz/assets/img/ch_logo/Monomax_Sport01.png", 
+"url":"https://cdn2.aws-live-streaming.com/lsmscore/monomax1/chunks.m3u8",
+"referer":"https://99dooball.live/", 
+"info":"Server 99dooball.live",                              
+"playInNatPlayer":"true"},	
+
+{
+"name":"MONOMAX1สำรอง7",
+"image":"https://www.img08.xyz/assets/img/ch_logo/Monomax_Sport01.png",
+"url":"https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/MONOMAX1.m3u8",
+"referer":"https://github.com", 
+"info":"Server github",                              
+"playInNatPlayer":"true"},
+           	 		
+{
+"name":"MONOMAX1สำรอง8",
+"image":"https://www.img08.xyz/assets/img/ch_logo/Monomax_Sport01.png",
+"url":"https://e107.ais-cloud.site/v5/LvKuZX9IjlTVdO8HVFUVLA/1756570549/30ff9770d630df3e4bb56525075a1d8e/R19Mw6CdNu0NovP1NjB-qA/1756581229/live/lx-origin/dooball66-max01_720/chunks.m3u8
+",
+"referer":"https://dookeela.live/",  
+"info":"Server dooball663",
+"userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"},
+                                                                                              
+{                
+"name":"MONOMAX2",
+"image":"https://www.img09.xyz/assets/img/ch_logo/Monomax_Sport02.png",  
+"url":"https://cdn1.googlecdn.live/4k/monomax-2/chunks.m3u8", 
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer": "true"},
+                
+{
+"name":"MONOMAX2สำรอง1",
+"image":"https://www.img09.xyz/assets/img/ch_logo/Monomax_Sport02.png",    
+"url":"https://cdn2.aws-live-streaming.com/lsmscore/monomax-2/chunks.m3u8",
+"referer":"https://99dooball.live/",
+"info":"Server 99dooball",
+"playInNatPlayer":"true"},
+
+{
+"name":"MONOMAX2สำรอง2",
+"image":"https://www.img09.xyz/assets/img/ch_logo/Monomax_Sport02.png",    
+"url":"https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/MONOMAX2.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer":"true"}, 
+                                        
+{
+"name":"MONOMAX2สำรอง3",
+"image":"https://www.img09.xyz/assets/img/ch_logo/Monomax_Sport02.png",    
+"url":"https://www.livedoomovies.com:4432/Monomax_Live_2HD/chunklist.m3u8",
+"referer":"https://www.88-hd.com/", 
+"info":"Server 88-hd",                              
+"playInNatPlayer":"true"},
+
+{
+"name":"MONOMAX2สำรอง4",
+"image":"https://www.img09.xyz/assets/img/ch_logo/Monomax_Sport02.png",    
+"url":"https://cdn1.googlecdnforstreaming.live/live/monomax2/chunks.m3u8",
+"referer":"https://warpdooball.net/", 
+"info":"Server warpdooball.net",                              
+"playInNatPlayer":"true"},
+
+{               
+"name":"MONOMAX2สำรอง5",
+"image":"https://www.img09.xyz/assets/img/ch_logo/Monomax_Sport02.png",              
+"url":"https://embed.rentm3u8.com/dooball66v2/ajax_player.php?channel=th-monomax01&api_key=kmf743jnd",
+"referer":"https://playerembed-lb.blackboxsys.net/",  
+"info":"Server dooball66",
+"embed":"true",
+"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"},
+	                  			                                                                 		
+{                
+"name":"MONOMAX3",
+"image":"https://www.img10.xyz/assets/img/ch_logo/Monomax_Sport03.png",               
+"url":"https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/MONOMAX3.m3u8", 
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer": "true"},  
+           
+{                
+"name":"MONOMAX3สำรอง1",
+"image":"https://www.img10.xyz/assets/img/ch_logo/Monomax_Sport03.png",              
+"url":"https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=epl-3&api_key=MIcWPyCpm6maZGJQ",
+"referer":"https://playerembed-lb.blackboxsys.net/",  
+"info":"Server dooball66",
+"embed":"true",
+"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"},
+  				                         
+{
+"name":"MONOMAX4",
+"image":"https://www.img01.xyz/assets/img/ch_logo/Monomax_Sport04.png", 
+"url":"https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/MONOMAX4.m3u8", 
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer": "true"},
+              
+{
+"name":"MONOMAX4สำรอง1",
+"image":"https://www.img01.xyz/assets/img/ch_logo/Monomax_Sport04.png", 
+"url":"https://dookeela.live/live-tv/monomax-sports4",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"},
+	                                    	
+{
+"name":"MONOMAX5",
+"image":"https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport05.png",   
+"url":"https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/MONOMAX5.m3u8", 
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer": "true"},
+               
+{
+"name":"MONOMAX6",
+"image":"https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport06.png",   
+"url":"https://dookeela.live/live-tv/monomax6",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"},
+
+{
+"name":"MONOMAX7",
+"image":"https://www.img04.xyz/assets/img/ch_logo/Monomax_Sport07.png",   
+"url":"https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/MONOMAX7.m3u8", 
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer": "true"},
+
+{
+"name":"MONOMAX8",
+"image":"https://www.img05.xyz/assets/img/ch_logo/Monomax_Sport08.png",   
+"url":"https://dookeela.live/live-tv/monomax-sports8",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"},
+
+{
+"name":"MONOMAX9",
+"image":"https://www.img06.xyz/assets/img/ch_logo/Monomax_Sport09.png",   
+"url":"https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/MONOMAX9.m3u8", 
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer": "true"},
+
+{
+"name":"MONOMAX10",
+"image":"https://www.img07.xyz/assets/img/ch_logo/Monomax_Sport10.png",   
+"url":"https://www.livedoomovies.com:4432/Monomax_Live_10HD/chunklist.m3u8",
+"referer":"https://www.88-hd.com/", 
+"info":"Server 88-hd",                              
+"playInNatPlayer":"true"},
+
+{
+"name":"MONOMAX11",
+"image":"https://www.img08.xyz/assets/img/ch_logo/Monomax_Sport11.png",   
+"url":"https://www.livedoomovies.com:4432/Monomax_Live_11HD/chunklist.m3u8",
+"referer":"https://www.88-hd.com/", 
+"info":"Server 88-hd",                              
+"playInNatPlayer":"true"},
+
+{
+"name":"True Premier Football 3",
+"image":"https://dookeela2.live/uploads/1664499681.png",              
+"url":"https://dookeela.live/live-tv/tpf3",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"},  
+
+{
+"name":"True Premier Football 3สำรอง1",
+"image":"https://dookeela2.live/uploads/1664499681.png",              
+"url":"https://goal-th.com/ช่องรายการทีวี/?id=40&tv=TruePremierFootball3",
+"referer":"https://goal-th.com/",
+"info":"Server goal-th",
+"playInNatPlayer":"true"},
+
+{
+"name":"True Premier Football 4",
+"image":"https://dookeela2.live/uploads/1664499681.png",              
+"url":"https://dookeela.live/live-tv/tpf4",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"},  
+
+{
+"name":"True Premier Football 4สำรอง1",
+"image":"https://dookeela2.live/uploads/1664499681.png",              
+"url":"https://goal-th.com/ช่องรายการทีวี/?id=41&tv=TruePremierFootball4",
+"referer":"https://goal-th.com/",
+"info":"Server goal-th",
+"playInNatPlayer":"true"},
+
+{
+"name":"True Premier Football 5",
+"image":"https://dookeela2.live/uploads/1664499681.png",              
+"url":"https://dookeela.live/live-tv/tpf5",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"},  
+
+{
+"name":"True Premier Football 5สำรอง1",
+"image":"https://dookeela2.live/uploads/1664499681.png",              
+"url":"https://goal-th.com/ช่องรายการทีวี/?id=42&tv=TruePremierFootball5",
+"referer":"https://goal-th.com/",
+"info":"Server goal-th",
+"playInNatPlayer":"true"},
+		                               		               		
+{
+"name":"TrueSportHD",
+"image":"https://rentapi.blackboxsys.net/images/png/hd-tsport1.png",    
+"url":"https://dookeela.live/live-tv/tsp1",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"}, 
+               
+{
+"name":"TrueSportHDสำรอง1",
+"image":"https://rentapi.blackboxsys.net/images/png/hd-tsport1.png",    
+"url":"https://dolive.thaim3u.com/doolive4k-tv/siamsport-8/playlist.m3u8",
+"referer":"https://doolive4k.tv", 
+"info":"Server doolive4k.tv",                              
+"playInNatPlayer":"true"}, 
+
+{
+"name":"TrueSportHDสำรอง2",
+"image":"https://rentapi.blackboxsys.net/images/png/hd-tsport1.png",    
+"url":"https://www.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8",
+"referer":"https://doomovie-hd.pro",
+"info":"Server doomovie-hd",
+"playInNatPlayer":"true"},	
+
+{
+"name":"TrueSportHDสำรอง3",
+"image":"https://rentapi.blackboxsys.net/images/png/hd-tsport1.png",    
+"url":"https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/truesport1.m3u8",
+"referer":"https://github.com/", 
+"info":"Server github",                              
+"playInNatPlayer":"true"},
+				           		
+{
+"name":"TrueSportHD2",
+"image":"https://rentapi.blackboxsys.net/images/png/hd-tsport2.png",     
+"url":"https://dookeela.live/live-tv/tsp2",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"}, 
+                
+{
+"name":"TrueSportHD2สำรอง1",
+"image":"https://rentapi.blackboxsys.net/images/png/hd-tsport2.png",     
+"url":"https://dolive.thaim3u.com/doolive4k-tv/siamsport-9/playlist.m3u8",
+"referer":"https://doolive4k.tv", 
+"info":"Server doolive4k.tv",                              
+"playInNatPlayer":"true"},   
+
+{
+"name":"TrueSportHD2สำรอง2",
+"image":"https://rentapi.blackboxsys.net/images/png/hd-tsport2.png",     
+"url":"https://www.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8",
+"referer":"https://doomovie-hd.pro",
+"info":"Server doomovie-hd",
+"playInNatPlayer":"true"},	   
+
+{
+"name":"TrueSportHD2สำรอง3",
+"image":"https://rentapi.blackboxsys.net/images/png/hd-tsport2.png",     
+"url":"https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/truesport2.m3u8",
+"referer":"https://github.com/", 
+"info":"Server github",                              
+"playInNatPlayer":"true"},
+		
+{
+"name":"TrueSportHD3",
+"image":"https://rentapi.blackboxsys.net/images/png/hd-tsport3.png",              
+"url":"https://dookeela.live/live-tv/tsp3",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"},
+                
+{
+"name":"TrueSportHD3สำรอง1",
+"image":"https://rentapi.blackboxsys.net/images/png/hd-tsport3.png",              
+"url":"https://dolive.thaim3u.com/doolive4k-tv/siamsport-10/playlist.m3u8",
+"referer":"https://doolive4k.tv", 
+"info":"Server doolive4k.tv",                              
+"playInNatPlayer":"true"},  
+
+{
+"name":"TrueSportHD3สำรอง2",
+"image":"https://rentapi.blackboxsys.net/images/png/hd-tsport3.png",              
+"url":"https://www.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8",
+"referer":"https://doomovie-hd.pro",
+"info":"Server doomovie-hd",
+"playInNatPlayer":"true"},       
+              	                          
+{
+"name":"TrueSportHD3สำรอง3",
+"image":"https://rentapi.blackboxsys.net/images/png/hd-tsport3.png",              
+"url":"https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/truesport3.m3u8",
+"referer":"https://github.com/", 
+"info":"Server github",                              
+"playInNatPlayer":"true"},	
+
+{
+"name":"TrueSportHD4",
+"image":"https://rentapi.blackboxsys.net/images/png/hd-tsport4.png",              
+"url":"https://dookeela.live/live-tv/tsp4",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"},  
+                        
+{
+"name":"TrueSport5",
+"image":"https://rentapi.blackboxsys.net/images/png/sd-tsport5.png",              
+"url":"https://dookeela.live/live-tv/tsp5",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"}, 
+                
+{
+"name":"TrueSport5สำรอง1",
+"image":"https://rentapi.blackboxsys.net/images/png/sd-tsport5.png",              
+"url":"https://dolive.thaim3u.com/doolive4k-tv/siamsport-11/playlist.m3u8",
+"referer":"https://doolive4k.tv", 
+"info":"Server doolive4k.tv",                              
+"playInNatPlayer":"true"},
+
+{
+"name":"TrueSport5สำรอง2",
+"image":"https://rentapi.blackboxsys.net/images/png/sd-tsport5.png",              
+"url":"https://www.livedoomovies.com:4432/02_sport5_480p/chunklist.m3u8",
+"referer":"https://doomovie-hd.pro",
+"info":"Server doomovie-hd",
+"playInNatPlayer":"true"},	        
+               	        	        
+{
+"name":"TrueSport5สำรอง3",
+"image":"https://rentapi.blackboxsys.net/images/png/sd-tsport5.png",             
+"url":"https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/truesport5.m3u8",
+"referer":"https://github.com/", 
+"info":"Server github",                              
+"playInNatPlayer":"true"},
+	       
+{
+"name":"TrueSport7",
+"image":"https://rentapi.blackboxsys.net/images/png/sd-tsport7.png",              
+"url":"https://dookeela.live/live-tv/tsp7",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"}, 
+                
+{
+"name":"TrueSport7สำรอง1",
+"image":"https://rentapi.blackboxsys.net/images/png/sd-tsport7.png",              
+"url":"https://dolive.thaim3u.com/doolive4k-tv/siamsport-12/playlist.m3u8",
+"referer":"https://doolive4k.tv", 
+"info":"Server doolive4k.tv",                              
+"playInNatPlayer":"true"},
+
+{
+"name":"TrueSport7สำรอง2",
+"image":"https://rentapi.blackboxsys.net/images/png/sd-tsport7.png",              
+"url":"https://www.livedoomovies.com:4432/02_sport7_480p/chunklist.m3u8",
+"referer":"https://doomovie-hd.pro",
+"info":"Server doomovie-hd",
+"playInNatPlayer":"true"},	   
+                 
+{
+"name":"TrueSport7สำรอง3",
+"image":"https://rentapi.blackboxsys.net/images/png/sd-tsport7.png",              
+"url":"https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/truesport7.m3u8",
+"referer":"https://github.com/", 
+"info":"Server github",                              
+"playInNatPlayer":"true"},	               
+                 		   			  
+{
+"name":"BeinSport1",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_1.png",            
+"url":"https://fw4free.inwstream.com/fw4free/bein1.stream/chunklist.m3u8",
+"referer":"https://fw4free.com/",
+"info":"Server fw4free",
+"playInNatPlayer": "true"},
+
+{
+"name":"BeinSport1สำรอง1",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_1.png",            
+"url":"https://cdn2.aws-live-streaming.com/lsmscore/bein1/chunks.m3u8",
+"referer":"https://99dooball.com/",
+"info":"Server 99dooball",
+"playInNatPlayer":"true"},
+
+{
+"name":"BeinSport1สำรอง2",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_1.png",            
+"url":"https://dookeela.live/live-tv/bein1",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"},
+
+{
+"name":"BeinSport1สำรอง3",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_1.png",            
+"url":"https://dookeela.live/live-tv/bein1_617",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"},
+
+{
+"name":"BeinSport1สำรอง4",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_1.png",            
+"url":"https://dolive.thaim3u.com/doolive4k-tv/siamsport-6/playlist.m3u8",
+"referer":"https://doolive4k.tv", 
+"info":"Server doolive4k.tv",                              
+"playInNatPlayer":"true"}, 
+                 
+{
+"name":"BeinSport1สำรอง5",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_1.png",            
+"url":"https://www.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8",
+"referer":"https://doomovie-hd.pro",
+"info":"Server doomovie-hd",
+"playInNatPlayer":"true"},
+
+{
+"name":"BeinSport1สำรอง6",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_1.png",            
+"url":"https://cdn1.googlecdnforstreaming.live/live/bein1/chunks.m3u8",
+"referer":"https://warpdooball.net/",
+"info":"Server warpdooball",
+"playInNatPlayer":"true"},
+
+{
+"name":"BeinSport1สำรอง7",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_1.png",            
+"url":"https://cdnsv1.bunnycdncloud.com/andaman888th/bein1/th-sport/bein1/chunks.m3u8",
+"referer":"https://www.andaman888th.com/",
+"info":"Server andaman888th",
+"playInNatPlayer":"true"},	
+
+{
+"name":"BeinSport1สำรอง8",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_1.png",            
+"url":"https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/beinsport1.m3u8",
+"referer":"https://github.com/", 
+"info":"Server github",                              
+"playInNatPlayer":"true"},
+
+{
+"name":"BeinSport1สำรอง9",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_1.png",            
+"url":"https://www.ufa77.fun/channel?ch=bein1",
+"referer":"https://www.ufa77.fun",
+"info":"Server ufa77.fun",
+"playInNatPlayer":"true"},		
+
+{
+"name":"BeinSport1สำรอง10",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_1.png",              
+"url":"https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=epl-bein1&api_key=MIcWPyCpm6maZGJQ",
+"referer":"https://playerembed-lb.blackboxsys.net/",
+"info":"Server dooball66x",
+"embed":"true",
+"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"}, 
+                                                     
+{
+"name":"BeinSport2",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_2.png",             
+"url":"https://fw4free.inwstream.com/fw4free/bein2.stream/chunklist.m3u8",
+"referer":"https://fw4free.com/",
+"info":"Server fw4free",
+"playInNatPlayer": "true"},
+
+{
+"name":"BeinSport2สำรอง1",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_2.png",             
+"url":"https://cdn2.aws-live-streaming.com/lsmscore/bein2/chunks.m3u8",
+"referer":"https://99dooball.com/",
+"info":"Server 99dooball",
+"playInNatPlayer":"true"},
+
+{
+"name":"BeinSport2สำรอง2",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_2.png",             
+"url":"https://dookeela.live/live-tv/bein2",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"},
+
+{
+"name":"BeinSport2สำรอง3",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_2.png",             
+"url":"https://www.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8",
+"referer":"https://doomovie-hd.pro",
+"info":"Server doomovie-hd",
+"playInNatPlayer":"true"},
+
+{
+"name":"BeinSport2สำรอง4",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_2.png",             
+"url":"https://cdn1.googlecdnforstreaming.live/live/bein2/chunks.m3u8",
+"referer":"https://warpdooball.net/",
+"info":"Server warpdooball",
+"playInNatPlayer":"true"},
+
+{
+"name":"BeinSport2สำรอง5",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_2.png",             
+"url":"https://cdnsv1.bunnycdncloud.com/andaman888th/bein2/th-sport/bein2/chunks.m3u8",
+"referer":"https://www.andaman888th.com/",
+"info":"Server andaman888th",
+"playInNatPlayer":"true"},	
+
+{
+"name":"BeinSport2สำรอง6",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_2.png",             
+"url":"https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/beinsport2.m3u8",
+"referer":"https://github.com/", 
+"info":"Server github",                              
+"playInNatPlayer":"true"},	
+
+{
+"name":"BeinSport2สำรอง7",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_2.png",             
+"url":"https://www.ufa77.fun/channel?ch=bein2",
+"referer":"https://www.ufa77.fun/",
+"info":"Server ufa77.fun",
+"playInNatPlayer":"true"},		
+
+{
+"name":"BeinSport2สำรอง8",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_2.png",             
+"url":"https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=epl-bein2&api_key=MIcWPyCpm6maZGJQ",
+"referer":"https://playerembed-lb.blackboxsys.net/",
+"info":"Server dooball66x",
+"embed":"true",
+"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"},          
+                 
+{
+"name":"BeinSport3",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_3.png",              
+"url":"https://fw4free.inwstream.com/fw4free/bein3.stream/chunklist.m3u8",
+"referer":"https://fw4free.com/",
+"info":"Server fw4free",
+"playInNatPlayer": "true"},
+
+{
+"name":"BeinSport3สำรอง1",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_3.png",              
+"url":"https://cdn2.aws-live-streaming.com/lsmscore/bein3/chunks.m3u8",
+"referer":"https://99dooball.com/",
+"info":"Server 99dooball",
+"playInNatPlayer":"true"},
+
+{
+"name":"BeinSport3สำรอง2",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_3.png",              
+"url":"https://dookeela.live/live-tv/bein3",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"}, 
+
+{
+"name":"BeinSport3สำรอง3",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_3.png",              
+"url":"https://dolive.thaim3u.com/doolive4k-tv/siamsport-7/playlist.m3u8",
+"referer":"https://doolive4k.tv", 
+"info":"Server doolive4k.tv",                              
+"playInNatPlayer":"true"}, 
+
+{
+"name":"BeinSport3สำรอง4",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_3.png",              
+"url":"https://www.livedoomovies.com:4432/02_epl3_720p/chunklist.m3u8",
+"referer":"https://doomovie-hd.pro",
+"info":"Server doomovie-hd",
+"playInNatPlayer":"true"},
+
+{
+"name":"BeinSport3สำรอง5",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_3.png",              
+"url":"https://cdn1.googlecdnforstreaming.live/live/bein3/chunks.m3u8",
+"referer":"https://warpdooball.net/",
+"info":"Server warpdooball",
+"playInNatPlayer":"true"},
+
+{
+"name":"BeinSport3สำรอง6",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_3.png",              
+"url":"https://cdnsv1.bunnycdncloud.com/andaman888th/bein3/th-sport/bein3/chunks.m3u8",
+"referer":"https://www.andaman888th.com/",
+"info":"Server andaman888th",
+"playInNatPlayer":"true"},	
+
+{
+"name":"BeinSport3สำรอง7",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_3.png",              
+"url":"https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/beinsport3.m3u8",
+"referer":"https://github.com/", 
+"info":"Server github",                              
+"playInNatPlayer":"true"},	
+
+{
+"name":"BeinSport3สำรอง8",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_3.png",              
+"url":"https://www.ufa77.fun/channel?ch=bein3",
+"referer":"https://www.ufa77.fun/",
+"info":"Server ufa77.fun",
+"playInNatPlayer":"true"},		
+                 
+{
+"name":"BeinSport3สำรอง9",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_3.png",              
+"url":"https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=epl-bein3&api_key=MIcWPyCpm6maZGJQ",
+"referer":"https://playerembed-lb.blackboxsys.net/",
+"info":"Server dooball66x",
+"embed":"true",
+"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"}, 
+
+{
+"name":"BeinSport4",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_4.png",              
+"url":"https://dookeela.live/live-tv/bein4",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"},
+
+{
+"name":"BeinSport4สำรอง1",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_4.png",              
+"url":"https://cdn1.googlecdnforstreaming.live/live/bein4/chunks.m3u8",
+"referer":"https://warpdooball.net/",
+"info":"Server warpdooball",
+"playInNatPlayer":"true"},
+
+{
+"name":"BeinSport4สำรอง2",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_4.png",              
+"url":"https://www.heng99bet.com/live/bein4",
+"referer":"https://heng99bet.com",
+"info":"Server heng99bet",
+"playInNatPlayer":"true"},
+
+{
+"name":"BeinSport4สำรอง3",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_4.png",              
+"url":"https://www.ball24.tv/allchannel/?id=bein4",
+"referer":"https://www.ball24.tv/",
+"info":"Server ball24.tv",
+"playInNatPlayer":"true"},
+
+{
+"name":"BeinSport4สำรอง4",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_4.png",              
+"url":"https://www.ufa77.fun/channel?ch=bein4",
+"referer":"https://www.ufa77.fun/",
+"info":"Server ufa77.fun",
+"playInNatPlayer":"true"},
+
+{
+"name":"BeinSport5",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_5.png",              
+"url":"https://dookeela.live/live-tv/bein5",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"},      
+               
+{
+"name":"BeinSport5สำรอง1",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_5.png",              
+"url":"https://cdn1.googlecdnforstreaming.live/live/bein5/chunks.m3u8",
+"referer":"https://warpdooball.net/",
+"info":"Server warpdooball",
+"playInNatPlayer":"true"},
+
+{
+"name":"BeinSport5สำรอง2",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_5.png",              
+"url":"https://www.heng99bet.com/live/bein5",
+"referer":"https://heng99bet.com",
+"info":"Server heng99bet",
+"playInNatPlayer":"true"},
+
+{
+"name":"BeinSport5สำรอง3",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_5.png",              
+"url":"https://www.ball24.tv/allchannel/?id=bein5",
+"referer":"https://www.ball24.tv/",
+"info":"Server ball24.tv",
+"playInNatPlayer":"true"},
+
+{
+"name":"BeinSport5สำรอง4",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_5.png",              
+"url":"https://www.ufa77.fun/channel?ch=bein5",
+"referer":"https://www.ufa77.fun/",
+"info":"Server ufa77.fun",
+"playInNatPlayer":"true"},
+
+{
+"name":"BeinSport6",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_6.png",              
+"url":"https://dookeela.live/live-tv/bein6",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"},  
+
+{
+"name":"BeinSport6สำรอง1",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_6.png",              
+"url":"https://cdn1.googlecdnforstreaming.live/live/bein6/chunks.m3u8",
+"referer":"https://warpdooball.net/",
+"info":"Server warpdooball",
+"playInNatPlayer":"true"},
+
+{
+"name":"BeinSport6สำรอง2",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_6.png",              
+"url":"https://www.heng99bet.com/live/bein6",
+"referer":"https://heng99bet.com",
+"info":"Server heng99bet",
+"playInNatPlayer":"true"},
+
+{
+"name":"BeinSport6สำรอง3",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_6.png",              
+"url":"https://www.ball24.tv/allchannel/?id=bein6",
+"referer":"https://www.ball24.tv/",
+"info":"Server ball24.tv",
+"playInNatPlayer":"true"},
+
+{
+"name":"BeinSport6สำรอง4",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_6.png",              
+"url":"https://www.ufa77.fun/channel?ch=bein6",
+"referer":"https://www.ufa77.fun/",
+"info":"Server ufa77.fun",
+"playInNatPlayer":"true"},
+
+{
+"name":"BeinSport7",
+"image":"https://ais-s.demo-vidnt.com/ais/play/origin/LIVE/channelicon/beIN_SPORTS_7.png",
+"url":"https://dookeela.live/live-tv/bein7",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"},
+
+{
+"name":"BeinSport7สำรอง1",
+"image":"https://ais-s.demo-vidnt.com/ais/play/origin/LIVE/channelicon/beIN_SPORTS_7.png",
+"url":"https://cdn1.googlecdnforstreaming.live/live/bein7/chunks.m3u8",
+"referer":"https://warpdooball.net/",
+"info":"Server warpdooball",
+"playInNatPlayer":"true"},
+
+{
+"name":"BeinSport7สำรอง2",
+"image":"https://ais-s.demo-vidnt.com/ais/play/origin/LIVE/channelicon/beIN_SPORTS_7.png",
+"url":"https://www.ball24.tv/allchannel/?id=bein7",
+"referer":"https://www.ball24.tv/",
+"info":"Server ball24.tv",
+"playInNatPlayer":"true"},
+
+{
+"name":"BeinSport7สำรอง3",
+"image":"https://ais-s.demo-vidnt.com/ais/play/origin/LIVE/channelicon/beIN_SPORTS_7.png",
+"url":"https://www.ufa77.fun/channel?ch=bein7",
+"referer":"https://www.ufa77.fun/",
+"info":"Server ufa77.fun",
+"playInNatPlayer":"true"},
+
+{
+"name":"BeinSport8",
+"image":"https://ais-s.demo-vidnt.com/ais/play/origin/LIVE/channelicon/beIN_SPORTS_8.png",
+"url":"https://dookeela.live/live-tv/bein8",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"},
+
+{
+"name":"BeinSport8สำรอง1",
+"image":"https://ais-s.demo-vidnt.com/ais/play/origin/LIVE/channelicon/beIN_SPORTS_8.png",
+"url":"https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=epl-bein8&api_key=MIcWPyCpm6maZGJQ",
+"referer":"https://playerembed-lb.blackboxsys.net/",
+"info":"Server dooball66x",
+"embed":"true",
+"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"}, 
+
+{
+"name":"BeinSport9",
+"image":"https://ais-s.demo-vidnt.com/ais/play/origin/LIVE/channelicon/beIN_SPORTS_9.png",
+"url":"https://dookeela.live/live-tv/bein9",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"},
+
+{
+"name":"BeinSport9สำรอง1",
+"image":"https://ais-s.demo-vidnt.com/ais/play/origin/LIVE/channelicon/beIN_SPORTS_9.png",
+"url":"https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=epl-bein9&api_key=MIcWPyCpm6maZGJQ",
+"referer":"https://playerembed-lb.blackboxsys.net/",
+"info":"Server dooball66x",
+"embed":"true",
+"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"}, 
+
+{
+"name":"BeinSport10",
+"image":"https://dookeela.live/uploads/1724346113.png",
+"url":"https://dookeela.live/live-tv/bein10",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"},
+
+{
+"name":"BeinSport10สำรอง1",
+"image":"https://dookeela.live/uploads/1724346113.png",
+"url":"https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=epl-bein10&api_key=MIcWPyCpm6maZGJQ",
+"referer":"https://playerembed-lb.blackboxsys.net/",
+"info":"Server dooball66x",
+"embed":"true",
+"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"}, 
+
+{
+"name":"SPORTS1",
+"image":"https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2025/Sports-One.png",
+"url":"https://dookeela.live/live-tv/3bbsports1",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"}, 
+
+{
+"name":"SPOTV1",
+"image":"https://rentapi.blackboxsys.net/images/png/hd-spotv.png",              
+"url":"https://dookeela.live/live-tv/spotv",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"}, 
+                                                       
+{
+"name":"SPOTV2",
+"image":"https://rentapi.blackboxsys.net/images/png/hd-spotv2.png",              
+"url":"https://dookeela.live/live-tv/spotv2",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"}, 
+
+{
+"name":"PLAY SPORTS FOOTBALL 1",
+"image":"https://dookeela2.live/uploads/1754476003.png",
+"url":"https://dookeela.live/live-tv/playsportsfootball1",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"},
+
+{
+"name":"PLAY SPORTS FOOTBALL 2",
+"image":"https://dookeela2.live/uploads/1754969046.png",
+"url":"https://dookeela.live/live-tv/playsportsfootball2",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"},
+
+{
+"name":"PLAY SPORTS FOOTBALL 3",
+"image":"https://dookeela2.live/uploads/1754968579.png",
+"url":"https://dookeela.live/live-tv/playsportsfootball3",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"},
+
+{
+"name":"PLAY SPORTS FOOTBALL 4",
+"image":"https://dookeela2.live/uploads/1754968644.png",
+"url":"https://dookeela.live/live-tv/playsportsfootball4",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"},
+
+{
+"name":"PLAY SPORTS FOOTBALL 5",
+"image":"https://dookeela2.live/uploads/1754968657.png",
+"url":"https://dookeela.live/live-tv/playsportsfootball5",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"},
+
+{
+"name":"PLAY SPORTS FOOTBALL 6",
+"image":"https://dookeela2.live/uploads/1754968665.png",
+"url":"https://dookeela.live/live-tv/playsportsfootball6",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"},
+
+{
+"name":"PLAY SPORTS FOOTBALL 7",
+"image":"https://dookeela2.live/uploads/1754968677.png",
+"url":"https://dookeela.live/live-tv/playsportsfootball7",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"},
+
+{
+"name":"PLAY SPORTS FOOTBALL 8",
+"image":"https://dookeela2.live/uploads/1754968688.png",
+"url":"https://dookeela.live/live-tv/playsportsfootball8",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"},
+
+{
+"name":"PLAY SPORTS FOOTBALL 9",
+"image":"https://dookeela2.live/uploads/1754968707.png",
+"url":"https://dookeela.live/live-tv/playsportsfootball9",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"},
+               
+{
+"name":"TSport7",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/T-SPorts_7_Final.png",
+"url":"https://dookeela.live/live-tv/tsports7",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"}, 
+
+{
+"name":"T-Sport HD 3",
+"image":"https://dookeela2.live/uploads/1742695956.png",
+"url":"https://dookeela.live/live-tv/t-sport-hd-3",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"}, 
+
+{
+"name":"T-Sport HD 4",
+"image":"https://dookeela2.live/uploads/1742695971.png",
+"url":"https://dookeela.live/live-tv/t-sport-hd-4",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"}, 
+                                                      
+{
+"name":"TrueTennis",
+"image":"https://cms.dmpcdn.com/livetv/2022/01/12/29936990-7374-11ec-8066-ffb72c13e721_webp_320.png",              
+"url":"https://dookeela.live/live-tv/truetennis",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"}, 
+                  
+{
+"name":"NBATV",
+"image":"https://rentapi.blackboxsys.net/images/png/us-nba.png",              
+"url":"https://dookeela.live/live-tv/nba",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"},
+                                                                                                	                                               
+{
+"name":"ถิ่นใต้",
+"image":"https://www.fileinw.com/postor/20240421225339ถิ่นใต้.jpg",             
+"url":"https://www.inwiptv.com/player_demo.php?channel=27312",
+"referer":"https://www.inwiptv.com/",
+"info":"Server inwiptv",
+"playInNatPlayer":"true"},
+]
+}
