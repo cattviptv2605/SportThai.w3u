@@ -41,19 +41,19 @@
 {
 "name":"MONOMAX1สำรอง4",
 "image":"https://www.img07.xyz/assets/img/ch_logo/PL_Mono1.jpg",
-"url":"https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/MONOMAX1.m3u8",
+"url":"https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/MONOMAX1.m3u8",
 "referer":"https://github.com", 
 "info":"Server github",                              
 "playInNatPlayer":"true"},
-           	 		
+
 {
 "name":"MONOMAX1สำรอง5",
 "image":"https://www.img07.xyz/assets/img/ch_logo/PL_Mono1.jpg",
-"url":"https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/monomax1.m3u8",
-"referer":"https://github.com", 
-"info":"Server github",                              
+"url":"https://www.livedoomovies.com/Monomax_PL_1HD/chunklist.m3u8",
+"referer":"https://www.88-hd.com/", 
+"info":"Server 88-hd",                              
 "playInNatPlayer":"true"},
-                                                                                              
+           	 		                                                                                             
 {                
 "name":"MONOMAX2",
 "image":"https://www.img08.xyz/assets/img/ch_logo/PL_Mono2.jpg",  
@@ -73,7 +73,7 @@
 {
 "name":"MONOMAX2สำรอง2",
 "image":"https://www.img08.xyz/assets/img/ch_logo/PL_Mono2.jpg",    
-"url":"https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/MONOMAX2.m3u8",
+"url":"https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/MONOMAX2.m3u8",
 "referer":"https://github.com/",
 "info":"Server github",
 "playInNatPlayer":"true"}, 
@@ -81,10 +81,10 @@
 {
 "name":"MONOMAX2สำรอง3",
 "image":"https://www.img08.xyz/assets/img/ch_logo/PL_Mono2.jpg",    
-"url":"https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/monomax2.m3u8",
-"referer":"https://github.com/",
-"info":"Server github",
-"playInNatPlayer":"true"}, 
+"url":"https://www.livedoomovies.com/Monomax_PL_2HD/chunklist.m3u8",
+"referer":"https://www.88-hd.com/", 
+"info":"Server 88-hd",                              
+"playInNatPlayer":"true"},
 	                  			                                                                 		
 {                
 "name":"MONOMAX3",
@@ -105,10 +105,10 @@
 {                
 "name":"MONOMAX3สำรอง2",
 "image":"https://www.img09.xyz/assets/img/ch_logo/PL_Mono3.jpg",              
-"url":"https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/monomax3.m3u8", 
-"referer":"https://github.com/",
-"info":"Server github",
-"playInNatPlayer": "true"}, 
+"url":"https://www.livedoomovies.com/Monomax_PL_3HD/chunklist.m3u8", 
+"referer":"https://www.88-hd.com/", 
+"info":"Server 88-hd",                              
+"playInNatPlayer":"true"},
   				                         
 {
 "name":"MONOMAX4",
@@ -121,7 +121,7 @@
 {
 "name":"MONOMAX4สำรอง1",
 "image":"https://www.img10.xyz/assets/img/ch_logo/PL_Mono4.jpg", 
-"url":"https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/MONOMAX4.m3u8", 
+"url":"https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/MONOMAX4.m3u8", 
 "referer":"https://github.com/",
 "info":"Server github",
 "playInNatPlayer": "true"},
@@ -129,10 +129,10 @@
 {
 "name":"MONOMAX4สำรอง2",
 "image":"https://www.img10.xyz/assets/img/ch_logo/PL_Mono4.jpg", 
-"url":"https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/monomax4.m3u8", 
-"referer":"https://github.com/",
-"info":"Server github",
-"playInNatPlayer": "true"},
+"url":"https://www.livedoomovies.com/Monomax_PL_4HD/chunklist.m3u8", 
+"referer":"https://www.88-hd.com/", 
+"info":"Server 88-hd",                              
+"playInNatPlayer":"true"},
 	                                    	
 {
 "name":"MONOMAX5",
@@ -153,10 +153,10 @@
 {
 "name":"MONOMAX5สำรอง2",
 "image":"https://www.img01.xyz/assets/img/ch_logo/PL_Mono5.jpg",   
-"url":"https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/monomax5.m3u8", 
-"referer":"https://github.com/",
-"info":"Server github",
-"playInNatPlayer": "true"},
+"url":"https://www.livedoomovies.com/Monomax_PL_5HD/chunklist.m3u8", 
+"referer":"https://www.88-hd.com/", 
+"info":"Server 88-hd",                              
+"playInNatPlayer":"true"},
                
 {
 "name":"MONOMAX6",
@@ -169,7 +169,7 @@
 {
 "name":"MONOMAX6สำรอง1",
 "image":"https://www.img02.xyz/assets/img/ch_logo/PL_Mono6.jpg",   
-"url":"https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/MONOMAX6.m3u8", 
+"url":"https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/MONOMAX6.m3u8", 
 "referer":"https://github.com/",
 "info":"Server github",
 "playInNatPlayer": "true"},
@@ -177,10 +177,10 @@
 {
 "name":"MONOMAX6สำรอง2",
 "image":"https://www.img02.xyz/assets/img/ch_logo/PL_Mono6.jpg",   
-"url":"https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/monomax6.m3u8", 
-"referer":"https://github.com/",
-"info":"Server github",
-"playInNatPlayer": "true"},
+"url":"https://www.livedoomovies.com/Monomax_PL_6HD/chunklist.m3u8", 
+"referer":"https://www.88-hd.com/", 
+"info":"Server 88-hd",                              
+"playInNatPlayer":"true"},
 
 {
 "name":"MONOMAX7",
@@ -193,7 +193,7 @@
 {
 "name":"MONOMAX7สำรอง1",
 "image":"https://www.img03.xyz/assets/img/ch_logo/PL_Mono7.jpg",   
-"url":"https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/MONOMAX7.m3u8", 
+"url":"https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/MONOMAX7.m3u8", 
 "referer":"https://github.com/",
 "info":"Server github",
 "playInNatPlayer": "true"},
@@ -202,9 +202,9 @@
 "name":"MONOMAX7สำรอง2",
 "image":"https://www.img03.xyz/assets/img/ch_logo/PL_Mono7.jpg",   
 "url":"https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/monomax7.m3u8", 
-"referer":"https://github.com/",
-"info":"Server github",
-"playInNatPlayer": "true"},
+"referer":"https://www.88-hd.com/", 
+"info":"Server 88-hd",                              
+"playInNatPlayer":"true"},
 
 {
 "name":"MONOMAX8",
@@ -217,7 +217,7 @@
 {
 "name":"MONOMAX8สำรอง1",
 "image":"https://www.img04.xyz/assets/img/ch_logo/PL_Mono8.jpg",   
-"url":"https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/MONOMAX8.m3u8", 
+"url":"https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/MONOMAX8.m3u8", 
 "referer":"https://github.com/",
 "info":"Server github",
 "playInNatPlayer": "true"},
@@ -227,14 +227,14 @@
 "name":"MONOMAX8สำรอง2",
 "image":"https://www.img04.xyz/assets/img/ch_logo/PL_Mono8.jpg",   
 "url":"https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/monomax8.m3u8", 
-"referer":"https://github.com/",
-"info":"Server github",
-"playInNatPlayer": "true"},
+"referer":"https://www.88-hd.com/", 
+"info":"Server 88-hd",                              
+"playInNatPlayer":"true"},
 
 {
 "name":"MONOMAX9",
 "image":"https://www.img06.xyz/assets/img/ch_logo/Monomax_Sport09.png",   
-"url":"https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/MONOMAX9.m3u8", 
+"url":"https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/MONOMAX9.m3u8", 
 "referer":"https://github.com/",
 "info":"Server github",
 "playInNatPlayer": "true"},
@@ -306,7 +306,7 @@
 {
 "name":"TrueSportHDสำรอง2",
 "image":"https://rentapi.blackboxsys.net/images/png/hd-tsport1.png",    
-"url":"https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/truesport1.m3u8",
+"url":"https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/truesport1.m3u8",
 "referer":"https://github.com/", 
 "info":"Server github",                              
 "playInNatPlayer":"true"},
@@ -330,7 +330,7 @@
 {
 "name":"TrueSportHD2สำรอง2",
 "image":"https://rentapi.blackboxsys.net/images/png/hd-tsport2.png",     
-"url":"https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/truesport2.m3u8",
+"url":"https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/truesport2.m3u8",
 "referer":"https://github.com/", 
 "info":"Server github",                              
 "playInNatPlayer":"true"},	   
@@ -354,7 +354,7 @@
 {
 "name":"TrueSportHD3สำรอง2",
 "image":"https://rentapi.blackboxsys.net/images/png/hd-tsport3.png",              
-"url":"https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/truesport3.m3u8",
+"url":"https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/truesport3.m3u8",
 "referer":"https://github.com/", 
 "info":"Server github",                              
 "playInNatPlayer":"true"},       
@@ -394,7 +394,7 @@
 {
 "name":"TrueSport5สำรอง2",
 "image":"https://rentapi.blackboxsys.net/images/png/sd-tsport5.png",              
-"url":"https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/truesport5.m3u8",
+"url":"https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/truesport5.m3u8",
 "referer":"https://github.com/", 
 "info":"Server github",                              
 "playInNatPlayer":"true"},        
@@ -418,7 +418,7 @@
 {
 "name":"TrueSport7สำรอง2",
 "image":"https://rentapi.blackboxsys.net/images/png/sd-tsport7.png",              
-"url":"https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/truesport7.m3u8",
+"url":"https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/truesport7.m3u8",
 "referer":"https://github.com/", 
 "info":"Server github",                              
 "playInNatPlayer":"true"},	   
@@ -458,7 +458,7 @@
 {
 "name":"BeinSport1สำรอง4",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_1.png",            
-"url":"https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/beinsport1.m3u8",
+"url":"https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/beinsport1.m3u8",
 "referer":"https://github.com/", 
 "info":"Server github",                              
 "playInNatPlayer":"true"},
@@ -490,7 +490,7 @@
 {
 "name":"BeinSport2สำรอง3",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_2.png",             
-"url":"https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/beinsport2.m3u8",
+"url":"https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/beinsport2.m3u8",
 "referer":"https://github.com/", 
 "info":"Server github",                              
 "playInNatPlayer":"true"},
@@ -522,7 +522,7 @@
 {
 "name":"BeinSport3สำรอง3",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_3.png",              
-"url":"https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/beinsport3.m3u8",
+"url":"https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/beinsport3.m3u8",
 "referer":"https://github.com/", 
 "info":"Server github",                              
 "playInNatPlayer":"true"},
