@@ -9,21 +9,13 @@
 {
 "name":"MONOMAX1",
 "image":"https://www.img07.xyz/assets/img/ch_logo/PL_Mono1.jpg", 
-"url":"https://goal-th.com/ช่องรายการทีวี/?id=606&tv=Monomax1",
-"referer":"https://goal-th.com/",
-"info":"Server goal-th",
-"playInNatPlayer":"true"},
-
-{
-"name":"MONOMAX1สำรอง1",
-"image":"https://www.img07.xyz/assets/img/ch_logo/PL_Mono1.jpg", 
 "url":"https://dookeela2.live/live-tv/monomax1",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},
 
 {
-"name":"MONOMAX1สำรอง2",
+"name":"MONOMAX1สำรอง1",
 "image":"https://www.img07.xyz/assets/img/ch_logo/PL_Mono1.jpg",
 "url":"https://cdn1.googlecdnforstreaming.live/live/monomax1/chunks.m3u8",
 "referer":"https://warpdooball.net/", 
@@ -31,7 +23,7 @@
 "playInNatPlayer":"true"},
 
 {
-"name":"MONOMAX1สำรอง3",
+"name":"MONOMAX1สำรอง2",
 "image":"https://www.img07.xyz/assets/img/ch_logo/PL_Mono1.jpg",
 "url":"https://cdn1.googlecdn.live/4k/monomax1/chunks.m3u8",
 "referer":"https://footballsod.live", 
@@ -39,7 +31,7 @@
 "playInNatPlayer":"true"},
 	
 {
-"name":"MONOMAX1สำรอง4",
+"name":"MONOMAX1สำรอง3",
 "image":"https://www.img07.xyz/assets/img/ch_logo/PL_Mono1.jpg",
 "url":"https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/MONOMAX1.m3u8",
 "referer":"https://github.com", 
@@ -47,7 +39,7 @@
 "playInNatPlayer":"true"},
 
 {
-"name":"MONOMAX1สำรอง5",
+"name":"MONOMAX1สำรอง4",
 "image":"https://www.img07.xyz/assets/img/ch_logo/PL_Mono1.jpg",
 "url":"https://www.livedoomovies.com/Monomax_PL_1HD/chunklist.m3u8",
 "referer":"https://www.88-hd.com/", 
@@ -250,9 +242,9 @@
 {
 "name":"True Premier Football 3สำรอง1",
 "image":"https://dookeela2.live/uploads/1664499681.png",              
-"url":"https://goal-th.com/ช่องรายการทีวี/?id=40&tv=TruePremierFootball3",
-"referer":"https://goal-th.com/",
-"info":"Server goal-th",
+"url":"https://cdn1.googlecdnforstreaming.live/live/tpf3/chunks.m3u8",
+"referer":"https://warpdooball.net/", 
+"info":"Server warpdooball.net",                              
 "playInNatPlayer":"true"},
 
 {
@@ -266,9 +258,9 @@
 {
 "name":"True Premier Football 4สำรอง1",
 "image":"https://dookeela2.live/uploads/1664499681.png",              
-"url":"https://goal-th.com/ช่องรายการทีวี/?id=41&tv=TruePremierFootball4",
-"referer":"https://goal-th.com/",
-"info":"Server goal-th",
+"url":"https://cdn1.googlecdnforstreaming.live/live/tpf4/chunks.m3u8",
+"referer":"https://warpdooball.net/", 
+"info":"Server warpdooball.net",                              
 "playInNatPlayer":"true"},
 
 {
@@ -282,9 +274,9 @@
 {
 "name":"True Premier Football 5สำรอง1",
 "image":"https://dookeela2.live/uploads/1664499681.png",              
-"url":"https://goal-th.com/ช่องรายการทีวี/?id=42&tv=TruePremierFootball5",
-"referer":"https://goal-th.com/",
-"info":"Server goal-th",
+"url":"https://cdn1.googlecdnforstreaming.live/live/tpf5/chunks.m3u8",
+"referer":"https://warpdooball.net/", 
+"info":"Server warpdooball.net",                              
 "playInNatPlayer":"true"},
 		                               		               		
 {
@@ -297,14 +289,6 @@
                
 {
 "name":"TrueSportHDสำรอง1",
-"image":"https://rentapi.blackboxsys.net/images/png/hd-tsport1.png",    
-"url":"https://goal-th.com/ช่องรายการทีวี/?id=74&tv=truesports1",
-"referer":"https://goal-th.com/",
-"info":"Server goal-th",
-"playInNatPlayer":"true"},
-
-{
-"name":"TrueSportHDสำรอง2",
 "image":"https://rentapi.blackboxsys.net/images/png/hd-tsport1.png",    
 "url":"https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/truesport1.m3u8",
 "referer":"https://github.com/", 
@@ -322,14 +306,6 @@
 {
 "name":"TrueSportHD2สำรอง1",
 "image":"https://rentapi.blackboxsys.net/images/png/hd-tsport2.png",     
-"url":"https://goal-th.com/ช่องรายการทีวี/?id=43&tv=truesports2",
-"referer":"https://goal-th.com/",
-"info":"Server goal-th",
-"playInNatPlayer":"true"},
-
-{
-"name":"TrueSportHD2สำรอง2",
-"image":"https://rentapi.blackboxsys.net/images/png/hd-tsport2.png",     
 "url":"https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/truesport2.m3u8",
 "referer":"https://github.com/", 
 "info":"Server github",                              
@@ -346,14 +322,6 @@
 {
 "name":"TrueSportHD3สำรอง1",
 "image":"https://rentapi.blackboxsys.net/images/png/hd-tsport3.png",              
-"url":"https://goal-th.com/ช่องรายการทีวี/?id=76&tv=truesports3",
-"referer":"https://goal-th.com/",
-"info":"Server goal-th",
-"playInNatPlayer":"true"},
-
-{
-"name":"TrueSportHD3สำรอง2",
-"image":"https://rentapi.blackboxsys.net/images/png/hd-tsport3.png",              
 "url":"https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/truesport3.m3u8",
 "referer":"https://github.com/", 
 "info":"Server github",                              
@@ -366,14 +334,6 @@
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
 "playInNatPlayer":"true"},  
-
-{
-"name":"TrueSportHD4สำรอง1",
-"image":"https://rentapi.blackboxsys.net/images/png/hd-tsport4.png",              
-"url":"https://goal-th.com/ช่องรายการทีวี/?id=395&tv=truesports4",
-"referer":"https://goal-th.com/",
-"info":"Server goal-th",
-"playInNatPlayer":"true"},
                         
 {
 "name":"TrueSport5",
@@ -385,14 +345,6 @@
                 
 {
 "name":"TrueSport5สำรอง1",
-"image":"https://rentapi.blackboxsys.net/images/png/sd-tsport5.png",              
-"url":"https://goal-th.com/ช่องรายการทีวี/?id=78&tv=truesports5",
-"referer":"https://goal-th.com/",
-"info":"Server goal-th",
-"playInNatPlayer":"true"},
-
-{
-"name":"TrueSport5สำรอง2",
 "image":"https://rentapi.blackboxsys.net/images/png/sd-tsport5.png",              
 "url":"https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/truesport5.m3u8",
 "referer":"https://github.com/", 
@@ -409,14 +361,6 @@
                 
 {
 "name":"TrueSport7สำรอง1",
-"image":"https://rentapi.blackboxsys.net/images/png/sd-tsport7.png",              
-"url":"https://goal-th.com/ช่องรายการทีวี/?id=79&tv=truesports7",
-"referer":"https://goal-th.com/",
-"info":"Server goal-th",
-"playInNatPlayer":"true"},
-
-{
-"name":"TrueSport7สำรอง2",
 "image":"https://rentapi.blackboxsys.net/images/png/sd-tsport7.png",              
 "url":"https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/truesport7.m3u8",
 "referer":"https://github.com/", 
@@ -442,21 +386,13 @@
 {
 "name":"BeinSport1สำรอง2",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_1.png",            
-"url":"https://goal-th.com/ช่องรายการทีวี/?id=44&tv=บีอินสปอตส์1",
-"referer":"https://goal-th.com/",
-"info":"Server goal-th",
-"playInNatPlayer":"true"},
-
-{
-"name":"BeinSport1สำรอง3",
-"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_1.png",            
 "url":"https://cdn1.googlecdnforstreaming.live/live/bein1/chunks.m3u8",
 "referer":"https://warpdooball.net/",
 "info":"Server warpdooball",
 "playInNatPlayer":"true"},
 
 {
-"name":"BeinSport1สำรอง4",
+"name":"BeinSport1สำรอง3",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_1.png",            
 "url":"https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/beinsport1.m3u8",
 "referer":"https://github.com/", 
@@ -474,21 +410,13 @@
 {
 "name":"BeinSport2สำรอง1",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_2.png",             
-"url":"https://goal-th.com/ช่องรายการทีวี/?id=188&tv=บีอินสปอตส์2",
-"referer":"https://goal-th.com/",
-"info":"Server goal-th",
-"playInNatPlayer":"true"},
-
-{
-"name":"BeinSport2สำรอง2",
-"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_2.png",             
 "url":"https://cdn1.googlecdnforstreaming.live/live/bein2/chunks.m3u8",
 "referer":"https://warpdooball.net/",
 "info":"Server warpdooball",
 "playInNatPlayer":"true"},
 
 {
-"name":"BeinSport2สำรอง3",
+"name":"BeinSport2สำรอง2",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_2.png",             
 "url":"https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/beinsport2.m3u8",
 "referer":"https://github.com/", 
@@ -506,21 +434,13 @@
 {
 "name":"BeinSport3สำรอง1",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_3.png",              
-"url":"https://goal-th.com/ช่องรายการทีวี/?id=6&tv=บีอินสปอตส์3",
-"referer":"https://goal-th.com/",
-"info":"Server goal-th",
-"playInNatPlayer":"true"},
-
-{
-"name":"BeinSport3สำรอง2",
-"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_3.png",              
 "url":"https://cdn1.googlecdnforstreaming.live/live/bein3/chunks.m3u8",
 "referer":"https://warpdooball.net/",
 "info":"Server warpdooball",
 "playInNatPlayer":"true"},
 
 {
-"name":"BeinSport3สำรอง3",
+"name":"BeinSport3สำรอง2",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_3.png",              
 "url":"https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/beinsport3.m3u8",
 "referer":"https://github.com/", 
@@ -538,14 +458,6 @@
 {
 "name":"BeinSport4สำรอง1",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_4.png",              
-"url":"https://goal-th.com/ช่องรายการทีวี/?id=201&tv=บีอินสปอตส์4",
-"referer":"https://goal-th.com/",
-"info":"Server goal-th",
-"playInNatPlayer":"true"},
-
-{
-"name":"BeinSport4สำรอง2",
-"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_4.png",              
 "url":"https://cdn1.googlecdnforstreaming.live/live/bein4/chunks.m3u8",
 "referer":"https://warpdooball.net/",
 "info":"Server warpdooball",
@@ -561,14 +473,6 @@
                
 {
 "name":"BeinSport5สำรอง1",
-"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_5.png",              
-"url":"https://goal-th.com/ช่องรายการทีวี/?id=202&tv=บีอินสปอตส์5",
-"referer":"https://goal-th.com/",
-"info":"Server goal-th",
-"playInNatPlayer":"true"},
-
-{
-"name":"BeinSport5สำรอง2",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_5.png",              
 "url":"https://cdn1.googlecdnforstreaming.live/live/bein5/chunks.m3u8",
 "referer":"https://warpdooball.net/",
@@ -586,14 +490,6 @@
 {
 "name":"BeinSport6สำรอง1",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_6.png",              
-"url":"https://goal-th.com/ช่องรายการทีวี/?id=214&tv=บีอินสปอตส์6",
-"referer":"https://goal-th.com/",
-"info":"Server goal-th",
-"playInNatPlayer":"true"},
-
-{
-"name":"BeinSport6สำรอง2",
-"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_6.png",              
 "url":"https://cdn1.googlecdnforstreaming.live/live/bein6/chunks.m3u8",
 "referer":"https://warpdooball.net/",
 "info":"Server warpdooball",
@@ -610,14 +506,6 @@
 {
 "name":"BeinSport7สำรอง1",
 "image":"https://ais-s.demo-vidnt.com/ais/play/origin/LIVE/channelicon/beIN_SPORTS_7.png",
-"url":"https://goal-th.com/ช่องรายการทีวี/?id=215&tv=บีอินสปอตส์7",
-"referer":"https://goal-th.com/",
-"info":"Server goal-th",
-"playInNatPlayer":"true"},
-
-{
-"name":"BeinSport7สำรอง2",
-"image":"https://ais-s.demo-vidnt.com/ais/play/origin/LIVE/channelicon/beIN_SPORTS_7.png",
 "url":"https://cdn1.googlecdnforstreaming.live/live/bein7/chunks.m3u8",
 "referer":"https://warpdooball.net/",
 "info":"Server warpdooball",
@@ -632,14 +520,6 @@
 "playInNatPlayer":"true"},
 
 {
-"name":"BeinSport8สำรอง1",
-"image":"https://ais-s.demo-vidnt.com/ais/play/origin/LIVE/channelicon/beIN_SPORTS_8.png",
-"url":"https://goal-th.com/ช่องรายการทีวี/?id=494&tv=บีอินสปอตส์8",
-"referer":"https://goal-th.com/",
-"info":"Server goal-th",
-"playInNatPlayer":"true"},
-
-{
 "name":"BeinSport9",
 "image":"https://ais-s.demo-vidnt.com/ais/play/origin/LIVE/channelicon/beIN_SPORTS_9.png",
 "url":"https://dookeela2.live/live-tv/bein9",
@@ -648,27 +528,11 @@
 "playInNatPlayer":"true"},
 
 {
-"name":"BeinSport9สำรอง1",
-"image":"https://ais-s.demo-vidnt.com/ais/play/origin/LIVE/channelicon/beIN_SPORTS_9.png",
-"url":"https://goal-th.com/ช่องรายการทีวี/?id=495&tv=บีอินสปอตส์9",
-"referer":"https://goal-th.com/",
-"info":"Server goal-th",
-"playInNatPlayer":"true"},
-
-{
 "name":"BeinSport10",
 "image":"https://dookeela.live/uploads/1724346113.png",
 "url":"https://dookeela.live/live-tv/bein10",
 "referer":"https://dookeela.live/",
 "info":"Server dookeela",
-"playInNatPlayer":"true"},
-
-{
-"name":"BeinSport10สำรอง1",
-"image":"https://dookeela.live/uploads/1724346113.png",
-"url":"https://goal-th.com/ช่องรายการทีวี/?id=496&tv=บีอินสปอตส์10",
-"referer":"https://goal-th.com/",
-"info":"Server goal-th",
 "playInNatPlayer":"true"},
 
 {
